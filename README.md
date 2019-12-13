@@ -13,3 +13,5 @@
 191209 : [React Class 04](https://github.com/kwansikdev/React_WIS/blob/master/WIS/191209)
 
 191211 : [React Class 05](https://github.com/kwansikdev/React_WIS/tree/master/WIS/191211)
+
+191213 : [React Class 06](https://github.com/kwansikdev/React_WIS/tree/master/WIS/191213)
