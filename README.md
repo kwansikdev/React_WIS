@@ -18,6 +18,8 @@
 
 191216 : [React Class 07](https://github.com/kwansikdev/React_WIS/blob/master/WIS/191216/React_Class_07.md)
 
+191218 : [React Class 08](https://github.com/kwansikdev/React_WIS/blob/master/WIS/191218/React_Class_08.md)
+
 [React_Router](https://github.com/kwansikdev/React_WIS/blob/master/WIS/React%20Router/React-Router.md)
 
 [React_Redux](https://github.com/kwansikdev/React_WIS/blob/master/WIS/React%20Redux/React%20redux.md)
