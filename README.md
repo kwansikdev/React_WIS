@@ -6,26 +6,26 @@
 
 ---
 
-191202 : [React class 01 : react의 기본 동작원리를 간단하게 vanila JS로 작성](https://github.com/kwansikdev/React_WIS/tree/master/191202)
+191202 : [React class 01 : react의 기본 동작원리를 간단하게 vanila JS로 작성]()
 
-191203 : [Proxy / React IL_01 / Algorithm](https://github.com/kwansikdev/React_WIS/tree/master/WIS/191203)
+191203 : [Proxy / React IL_01 / Algorithm]()
 
-191204 : [React Class 02/ React IL_02 / Algorithm](https://github.com/kwansikdev/React_WIS/tree/master/WIS/191204)
+191204 : [React Class 02/ React IL_02 / Algorithm]()
 
-191205 : [React IL_03 / Algorithm](https://github.com/kwansikdev/React_WIS/tree/master/WIS/191205)
+191205 : [React IL_03 / Algorithm]()
 
-191206 : [React Class 03](https://github.com/kwansikdev/React_WIS/tree/master/WIS/191206)
+191206 : [React Class 03]()
 
-191209 : [React Class 04](https://github.com/kwansikdev/React_WIS/blob/master/WIS/191209)
+191209 : [React Class 04]()
 
-191211 : [React Class 05](https://github.com/kwansikdev/React_WIS/tree/master/WIS/191211)
+191211 : [React Class 05]()
 
-191213 : [React Class 06](https://github.com/kwansikdev/React_WIS/tree/master/WIS/191213)
+191213 : [React Class 06]()
 
-191216 : [React Class 07](https://github.com/kwansikdev/React_WIS/blob/master/WIS/191216/React_Class_07.md)
+191216 : [React Class 07]()
 
-191218 : [React Class 08](https://github.com/kwansikdev/React_WIS/blob/master/WIS/191218/React_Class_08.md)
+191218 : [React Class 08]()
 
-[React_Router](https://github.com/kwansikdev/React_WIS/blob/master/WIS/React%20Router/React-Router.md)
+[React_Router]()
 
-[React_Redux](https://github.com/kwansikdev/React_WIS/blob/master/WIS/React%20Redux/React%20redux.md)
+[React_Redux]()
